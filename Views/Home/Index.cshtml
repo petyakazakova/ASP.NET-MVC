@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Natural Foods A/S</h1>
+    <p class="lead">Welcome to our food delivery website. Here you will find all types of natural, taken care of food products.</p>
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Startup</h2>
+        <p>
+            New to the store? Give yourself a treat through the shop!
+        </p>
+        <p>
+            We can deliver the product to your door by @DateTime.Now.AddDays(1).ToLongDateString().
+        </p>
+        <p><a href="~/Home/About" class="btn btn-primary btn-lg">Read more</a></p>
+
+     </div>
+    <div class="col-md-8">
+        <h2> Our products</h2>
+        <br />
+
+        @using (Html.BeginForm())
+        {
+            @Html.TextBox("searchCriteria");
+            <input type="submit" value="Find product" />
+        }
+
+        <br />
+        <table class="table-striped table-bordered table-responsive">
+            @foreach (var product in Model) //the Model param will go to the model
+            {
+                <tr>
+                    <td>@product.Name</td>
+                    <td>@product.Description</td>
+                    <td>@Html.ActionLink("My details", "Details", new { id = product.ID })</td>
+                </tr>
+            }
+        </table>
+    </div>
+    
+</div>

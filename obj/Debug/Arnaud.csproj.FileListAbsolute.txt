@@ -1,0 +1,215 @@
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\ApplicationInsights.config
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\csc.exe
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\csc.exe.config
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\csc.rsp
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\csi.exe
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\csi.rsp
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\System.AppContext.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\vbc.exe
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\vbc.exe.config
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\vbc.rsp
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\VBCSCompiler.exe
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Arnaud.dll.config
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Arnaud.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Arnaud.pdb
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Antlr3.Runtime.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Microsoft.AI.Web.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Microsoft.ApplicationInsights.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Newtonsoft.Json.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\System.Web.Helpers.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\System.Web.Mvc.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\System.Web.Optimization.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\System.Web.Razor.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\System.Web.WebPages.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\System.Web.WebPages.Razor.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\WebGrease.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\System.Web.Helpers.xml
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\System.Web.Mvc.xml
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\System.Web.Optimization.xml
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\System.Web.Razor.xml
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\System.Web.WebPages.xml
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\System.Web.WebPages.Razor.xml
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Antlr3.Runtime.pdb
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Newtonsoft.Json.xml
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Microsoft.ApplicationInsights.xml
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\Microsoft.AI.Web.xml
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\obj\Debug\Arnaud.csprojResolveAssemblyReference.cache
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\obj\Debug\Arnaud.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\obj\Debug\Arnaud.pdb
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\EntityFramework.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\EntityFramework.SqlServer.dll
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\EntityFramework.xml
+C:\Users\tor\Documents\Visual Studio 2017\Dev2018spring\Arnaud\Arnaud\bin\EntityFramework.SqlServer.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\ApplicationInsights.config
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\csc.exe
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\csc.exe.config
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\csc.rsp
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\csi.exe
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\csi.rsp
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\System.AppContext.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\System.Collections.Immutable.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\System.IO.FileSystem.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\System.Reflection.Metadata.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\vbc.exe
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\vbc.exe.config
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\vbc.rsp
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\VBCSCompiler.exe
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\roslyn\VBCSCompiler.exe.config
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Arnaud.dll.config
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Arnaud.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Arnaud.pdb
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Antlr3.Runtime.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\EntityFramework.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\EntityFramework.SqlServer.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Microsoft.AI.DependencyCollector.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Microsoft.AI.Web.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Microsoft.AI.WindowsServer.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Microsoft.ApplicationInsights.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Microsoft.Web.Infrastructure.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Newtonsoft.Json.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\System.Web.Helpers.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\System.Web.Mvc.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\System.Web.Optimization.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\System.Web.Razor.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\System.Web.WebPages.Deployment.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\System.Web.WebPages.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\System.Web.WebPages.Razor.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\WebGrease.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\EntityFramework.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\EntityFramework.SqlServer.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\System.Web.Helpers.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\System.Web.Mvc.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\System.Web.Optimization.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\System.Web.Razor.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\System.Web.WebPages.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\System.Web.WebPages.Deployment.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\System.Web.WebPages.Razor.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Antlr3.Runtime.pdb
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Newtonsoft.Json.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Microsoft.ApplicationInsights.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Microsoft.AI.DependencyCollector.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Microsoft.AI.WindowsServer.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\bin\Microsoft.AI.Web.xml
+D:\Downloads\Arnaud\Arnaud\Arnaud\obj\Debug\Arnaud.csprojResolveAssemblyReference.cache
+D:\Downloads\Arnaud\Arnaud\Arnaud\obj\Debug\Arnaud.csproj.CoreCompileInputs.cache
+D:\Downloads\Arnaud\Arnaud\Arnaud\obj\Debug\Arnaud.dll
+D:\Downloads\Arnaud\Arnaud\Arnaud\obj\Debug\Arnaud.pdb
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\ApplicationInsights.config
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\csc.exe
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\csc.exe.config
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\csc.rsp
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\csi.exe
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\csi.rsp
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\System.AppContext.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\vbc.exe
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\vbc.exe.config
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\vbc.rsp
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\VBCSCompiler.exe
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Arnaud.dll.config
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Arnaud.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Arnaud.pdb
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Antlr3.Runtime.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\EntityFramework.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\EntityFramework.SqlServer.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Microsoft.AI.Web.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Newtonsoft.Json.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\System.Web.Helpers.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\System.Web.Mvc.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\System.Web.Optimization.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\System.Web.Razor.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\System.Web.WebPages.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\System.Web.WebPages.Razor.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\WebGrease.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\EntityFramework.xml
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\EntityFramework.SqlServer.xml
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\System.Web.Helpers.xml
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\System.Web.Mvc.xml
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\System.Web.Optimization.xml
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\System.Web.Razor.xml
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\System.Web.WebPages.xml
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\System.Web.WebPages.Razor.xml
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Antlr3.Runtime.pdb
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Newtonsoft.Json.xml
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\bin\Microsoft.AI.Web.xml
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\obj\Debug\Arnaud.csprojResolveAssemblyReference.cache
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\obj\Debug\Arnaud.csproj.CoreCompileInputs.cache
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\obj\Debug\Arnaud.dll
+C:\Users\Petya\source\repos\TOR_devEnvironments\MVC_handIn2\Arnaud\Arnaud\obj\Debug\Arnaud.pdb
